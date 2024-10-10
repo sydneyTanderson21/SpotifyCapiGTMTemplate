@@ -1,0 +1,6 @@
+homepage: "https://open.spotify.com"
+documentation: "https://developer.spotify.com/documentation/web-api"
+versions:
+  # Latest version
+  - sha: 123412341234
+    changeNotes: Initial release.
